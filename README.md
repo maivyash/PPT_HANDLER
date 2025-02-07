@@ -30,45 +30,56 @@ Run the following command to install the required dependencies:
 pip install opencv-python mediapipe pyautogui pillow pywin32
 ```sh
 
-### 🔹 🎬 Usage
-Run the Script
+# PPT Gesture Control
+
+## Install Dependencies
+
+Run the following command to install the required dependencies:
+
 ```sh
-Copy
-Edit
+pip install opencv-python mediapipe pyautogui pillow pywin32
+```
+
+## 🎬 Usage
+
+### Run the Script
+
+```sh
 python ppt_gesture_control.py
-```sh
+```
 
-Select a PowerPoint File
-Click on the "Choose PowerPoint File" button and select a .pptx file.
-Once selected, the "Start PPT & Control" button will be enabled.
-Start Presentation
-Click the "Start PPT & Control" button to launch the PowerPoint presentation.
-The camera will activate to detect hand gestures.
-Gesture Controls
-✋ Raise Thumb (only) → Next Slide ⏭️
-🤙 Raise Pinky Finger (only) → Previous Slide ⏮️
-☝️ Raise Index Finger (only) → Move Red Marker 🎯
-✌️ Raise Index & Middle Fingers → Enable Drawing Mode ✏️
-✊ Lower All Fingers → Stop Drawing ❌
-📸 Screenshots
+### Select a PowerPoint File
 
+1. Click on the **"Choose PowerPoint File"** button and select a `.pptx` file.
+2. Once selected, the **"Start PPT & Control"** button will be enabled.
 
-⚠️ Known Issues
-📷 Camera Initialization Delay: The camera might take a few seconds to initialize.
-💡 Lighting Conditions: Ensure proper lighting for accurate gesture detection.
-👨‍💻 Developer Information
-Developed by: Yash Gupta
-📧 Contact: guptayash2005.yg@gmail.com
+### Start Presentation
 
-📜 License
-This project is open-source under the MIT License.
+1. Click the **"Start PPT & Control"** button to launch the PowerPoint presentation.
+2. The camera will activate to detect hand gestures.
 
-csharp
-Copy
-Edit
+## 🎮 Gesture Controls
 
-### Notes:
-- Replace `"https://your-image-url.com/banner.png"` and `"https://your-image-url.com/demo.png"` with actual image links hosted online (e.g., on GitHub, Imgur, or another hosting service).
-- Save this file as `README.md` in your project directory, and GitHub will automatically format it.
+- ✋ **Raise Thumb (only)** → Next Slide ⏭️
+- 🤙 **Raise Pinky Finger (only)** → Previous Slide ⏮️
+- ☝️ **Raise Index Finger (only)** → Move Red Marker 🎯
+- ✌️ **Raise Index & Middle Fingers** → Enable Drawing Mode ✏️
+- ✊ **Lower All Fingers** → Stop Drawing ❌
 
-Let me know if you want any improvements! 🚀
+## 📸 Screenshots
+
+(Add screenshots here if needed)
+
+## ⚠️ Known Issues
+
+- 📷 **Camera Initialization Delay**: The camera might take a few seconds to initialize.
+- 💡 **Lighting Conditions**: Ensure proper lighting for accurate gesture detection.
+
+## 👨‍💻 Developer Information
+
+- **Developed by**: Yash Gupta
+- 📧 **Contact**: [guptayash2005.yg@gmail.com](mailto:guptayash2005.yg@gmail.com)
+
+## 📜 License
+
+This project is open-source under the **MIT License**.
