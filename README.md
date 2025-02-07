@@ -28,14 +28,16 @@ Ensure you have the following installed:
 Run the following command to install the required dependencies:
 ```sh
 pip install opencv-python mediapipe pyautogui pillow pywin32
+```sh
 
-
-🎬 Usage
+### 🔹 🎬 Usage
 Run the Script
-sh
+```sh
 Copy
 Edit
 python ppt_gesture_control.py
+```sh
+
 Select a PowerPoint File
 Click on the "Choose PowerPoint File" button and select a .pptx file.
 Once selected, the "Start PPT & Control" button will be enabled.
