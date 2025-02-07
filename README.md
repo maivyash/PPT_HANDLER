@@ -1,6 +1,7 @@
 # PowerPoint Gesture Control System
 
-![PowerPoint Gesture Control](https://your-image-url.com/banner.png)
+![Uploading image.png…]()
+
 
 ## 🚀 Overview
 The **PowerPoint Gesture Control System** is an innovative application that allows users to control their PowerPoint presentations using simple hand gestures. Utilizing OpenCV, MediaPipe, and PyAutoGUI, this project enables seamless slide navigation and annotation without touching the keyboard or mouse.
