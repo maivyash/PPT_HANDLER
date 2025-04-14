@@ -1,5 +1,5 @@
 # PowerPoint Gesture Control System
-![Gesture Control Demo](https://github.com/maivyash/PPT_HANDLER/blob/main/image.png)
+
 
 ## 🚀 Overview
 The **PowerPoint Gesture Control System** is an innovative application that allows users to control their PowerPoint presentations using simple hand gestures. Utilizing OpenCV, MediaPipe, and PyAutoGUI, this project enables seamless slide navigation and annotation without touching the keyboard or mouse.
@@ -66,7 +66,7 @@ python ppt_gesture_control.py
 
 ## 📸 Screenshots
 
-(Add screenshots here if needed)
+![Gesture Control Demo](https://github.com/maivyash/PPT_HANDLER/blob/main/image.png)
 
 ## ⚠️ Known Issues
 
