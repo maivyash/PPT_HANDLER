@@ -26,7 +26,7 @@ Ensure you have the following installed:
 Run the following command to install the required dependencies:
 ```sh
 pip install opencv-python mediapipe pyautogui pillow pywin32
-```sh
+```
 
 # PPT Gesture Control
 
@@ -36,7 +36,7 @@ Run the following command to install the required dependencies:
 
 ```sh
 pip install opencv-python mediapipe pyautogui pillow pywin32
-```sh
+```
 
 ## 🎬 Usage
 
